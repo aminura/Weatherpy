@@ -1,0 +1,7 @@
+Analysis
+
+1. There is a relatively strong correlation between latitude and temperature. The lower latitudes have higher temperatures and the higher latitudes have lower temperatures.
+
+2. Humidity seems to get denser with latitude.
+
+3. There is almost no correlation between cloudiness and latitude.
